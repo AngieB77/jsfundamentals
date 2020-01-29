@@ -1,0 +1,14 @@
+/*
+for loops take in 3 parameters:
+1. initial expression
+2. condition
+3. increment expression
+*/
+//       1        2       3
+for (let i = 0; i < 10; i++){
+    console.log(i);
+}
+
+for (let i =0; i<21; i+2) {
+    console.log(i);
+}
